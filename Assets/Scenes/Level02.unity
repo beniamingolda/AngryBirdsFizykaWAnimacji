@@ -854,8 +854,8 @@ MonoBehaviour:
   projectile: {fileID: 677776856}
   projectiles:
   - {fileID: 677776856}
-  - {fileID: 1411753945}
   - {fileID: 226213387}
+  - {fileID: 1411753945}
   farLeft: {fileID: 953097463}
   farRight: {fileID: 116000412}
 --- !u!20 &519420031
